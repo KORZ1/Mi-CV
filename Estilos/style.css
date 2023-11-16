@@ -1,0 +1,79 @@
+body {background-color: rgb(255, 255, 255);
+position: relative;
+}
+.image-profile {height: 300px;box-shadow: 10px 10px 10px 10px black;}
+.container1 {margin: auto;background-color: rgb(139, 155, 168);}
+.nombre {text-align: center;text-shadow: black;}
+.ig-logo {height: 30px;}
+.carrera {text-align: center;}
+.estudios {
+    width: 400px;
+    height: 250px;
+    background-color: lightgrey;
+    position: relative;
+    margin-right: 50px; 
+}
+.contenido-estudios{
+    text-align: center;
+    position: relative;
+    top: 5%;
+    
+}
+.acerca-de-mi {
+    width: 400px;
+    height: 250px;
+    background-color:bisque;
+    position: relative;
+}
+.container2 {display: flex;}
+
+.contacto-row-wrap {
+    top: 3px;
+    width: 450px;
+    height: 250px;
+    position: absolute;
+    left: 450px;
+    bottom: 300px;
+    background-color: rgb(8, 45, 84);
+}
+.titulo {
+    text-align: center;
+    height: 1px;
+}
+.item {
+    
+    align-items:flex-start;
+    position: relative;
+    flex-direction: column;
+    box-sizing: border-box;
+    left: 30px;
+    top: 50px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 1px;
+    padding: 1px;
+    background-color:rgb(138, 163, 255);
+}
+.phoneicon {
+    height: 40px;
+}
+.mailicon {
+    height: 40px;
+}
+.locationicon {
+height: 40px;
+}
+.kit {
+position: relative;
+box-sizing: border-box;
+left: 90px;
+bottom: 103px;
+width: 160px;
+height: 50px;
+border: 1px solid black;
+margin: 1px;
+padding: 1px;
+background-color:rgb(23, 62, 207);
+   
+}
